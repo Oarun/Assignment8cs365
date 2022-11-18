@@ -1,0 +1,15 @@
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\bin\Debug\net7.0\Assignment8.exe
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\bin\Debug\net7.0\Assignment8.deps.json
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\bin\Debug\net7.0\Assignment8.runtimeconfig.json
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\bin\Debug\net7.0\Assignment8.dll
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\bin\Debug\net7.0\Assignment8.pdb
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.csproj.AssemblyReference.cache
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.AssemblyInfoInputs.cache
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.AssemblyInfo.cs
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.dll
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\refint\Assignment8.dll
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.pdb
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\Assignment8.genruntimeconfig.cache
+C:\Users\gubin\OneDrive\Desktop\CS365\Assignment8\obj\Debug\net7.0\ref\Assignment8.dll
