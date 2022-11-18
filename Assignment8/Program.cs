@@ -2,10 +2,10 @@
 using System.Diagnostics;
 public class Program
 {
-    static int numOfWorkers = 2;
-    static int meanTimeBtwnCustomer = 10 * 10;
-    static int meanServiceTime = 30 * 10;
-    static int timeRun = 70 * 10;
+    static int numOfWorkers = 0;
+    static int meanTimeBtwnCustomer = 0;
+    static int meanServiceTime = 0;
+    static int timeRun = 0;
     static int currentSimTime = 0;
     static int customerServed = 0;
     static double avrgTimeInLine = 0;
@@ -72,20 +72,19 @@ public class Program
         }
     }
     public static void Main(string[] args){
-        /*
+        
         Console.WriteLine("How many workers?: ");
         numOfWorkers = Convert.ToInt32(Console.ReadLine());
         workerSemaphore = new Semaphore(numOfWorkers, numOfWorkers);
 
         Console.WriteLine("What is the mean time between customers?: ");
-        meanTimeBtwnCustomer = Convert.ToInt32(Console.ReadLine());
+        meanTimeBtwnCustomer = Convert.ToInt32(Console.ReadLine())* 10;
 
         Console.WriteLine("What is the mean service time?: ");
-        meanServiceTime = Convert.ToInt32(Console.ReadLine());
+        meanServiceTime = Convert.ToInt32(Console.ReadLine())* 10;
 
         Console.WriteLine("How long will simulation run for?: ");
-        timeRun = Convert.ToInt32(Console.ReadLine());
-        */
+        timeRun = Convert.ToInt32(Console.ReadLine())* 10;
 
         workerSemaphore = new Semaphore(numOfWorkers, numOfWorkers);
 
